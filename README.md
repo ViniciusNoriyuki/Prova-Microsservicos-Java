@@ -1,5 +1,5 @@
-# ProvaMicroServico + Feign
-Prova utilizando conceito de microservicos e orquestracao em Java.
+# ProvaMicroServico
+Prova utilizando conceito de microservicos em Java.
 
 **Realizar saque - PUT** 
 ```
